@@ -16,6 +16,9 @@
 2 iteam-4<br>
 -[ ]music<br>
 -[ ]story reading<br>
+|Name|Age|Qualification|
+|xxx|yy|zzz|
+
 
 
 

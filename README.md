@@ -15,10 +15,11 @@
 1 iteam-3<br>
 2 iteam-4<br>
 -[  ] music<br>
--[  ] story reading<br>
-| Name  | Age |  Qualify      |
-| ----  |  -- |  -------      |
-| xxx   | yy  |  zzz          | 
+-[  ] story reading <br> 
+  
+| Name  | Age |  Qualify   |
+| ---|  --- |  --- |  
+| xxx   | yy  |  zzz       |    
 <hr>
 [git-hub] ("https://github.com" "click title ")<br>
 <mark>This is an example for highlight text </mark><br>

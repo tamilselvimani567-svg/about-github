@@ -1,6 +1,6 @@
-#Example :Club Guide<br>
-####PHOTOGRAPHY CLUB GUIDE<br>
-#####About the Club<br>
+# Example :Club Guide<br>
+#### PHOTOGRAPHY CLUB GUIDE<br>
+##### About the Club<br>
 <p>The photography club....walks</p>
 <hr>
 <b>Membership</b><br>
@@ -16,6 +16,7 @@
 2 iteam-4<br>
 -[ ]music<br>
 -[ ]story reading<br>
+
 
 
 
